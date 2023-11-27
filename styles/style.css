@@ -16023,6 +16023,9 @@ body.boxed-wrapper {
     line-height: unset !important;
   }
 
+  .process-one .section-title {
+    text-align: center;
+  }
 
   .feature-two__title {
     font-size: 18px;
